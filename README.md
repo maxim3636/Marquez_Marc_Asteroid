@@ -16,4 +16,5 @@ Se suma punts quan es destrueix qualsevol de les mides.
 Implementar waves: S'ha de veure en pantalla en quina wave estem, i segons la wave apareixaran cada cop més asteroids i cada cop de mides més grans. A l'inici han de ser només de mida petita.
 Per implementar el spawn dels asteroides, podeu fer que apareguin aleatòriament en un cercle, definint un radi prou gran per tal que quan apareguin estiguin fora de l'escena. I la direcció pot ser el centre de la pantalla, però afegint una petita variació per tal que no tots els asteroides passin pel centre de l'escena (i així hi hagi una variació).
 (1 punt) Teletransport del player: si la nau del player travessa algun dels marges, apareixarà al costat oposat.
-(1 punt) Fer el build per web.
+(1 punt) Fer el build per web i penjar-la en algun dels servidors gratuits que hi han. En cas de fer això exposeu en el README l'adreça.
+UPLOAD AT: https://simmer.io/@Marc3663/asteroid
